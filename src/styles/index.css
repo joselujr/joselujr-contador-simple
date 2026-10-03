@@ -1,0 +1,30 @@
+.SecondsCounter {
+    width: 70px;
+    height: 90px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+}
+
+.IconTimer {
+    width: 70px;
+    height: 90px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+}
+
+.Home {
+    background-image: url("https://img.magnific.com/foto-gratis/empresario-caucasico-sosteniendo-cronometro-metal-antiguo-generado-ia_188544-38729.jpg?semt=ais_hybrid&w=740&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
